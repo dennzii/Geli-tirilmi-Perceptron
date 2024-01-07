@@ -1,0 +1,14 @@
+C:\Users\deniz\source\repos\PerceptronProje\PerceptronProje\obj\Debug\PerceptronProje.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\PerceptronProje\PerceptronProje\obj\Debug\PerceptronProje.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\PerceptronProje\PerceptronProje\bin\Debug\PerceptronProje.exe.config
+C:\Users\deniz\source\repos\PerceptronProje\PerceptronProje\bin\Debug\PerceptronProje.exe
+C:\Users\deniz\source\repos\PerceptronProje\PerceptronProje\bin\Debug\PerceptronProje.pdb
+C:\Users\deniz\source\repos\PerceptronProje\PerceptronProje\obj\Debug\PerceptronProje.exe
+C:\Users\deniz\source\repos\PerceptronProje\PerceptronProje\obj\Debug\PerceptronProje.pdb
+C:\Users\deniz\source\repos\Neural Network\PerceptronProje\obj\Debug\PerceptronProje.csproj.AssemblyReference.cache
+C:\Users\deniz\source\repos\Neural Network\PerceptronProje\obj\Debug\PerceptronProje.csproj.CoreCompileInputs.cache
+C:\Users\deniz\source\repos\Neural Network\PerceptronProje\obj\Debug\PerceptronProje.exe
+C:\Users\deniz\source\repos\Neural Network\PerceptronProje\obj\Debug\PerceptronProje.pdb
+C:\Users\deniz\source\repos\Neural Network\PerceptronProje\bin\Debug\PerceptronProje.exe.config
+C:\Users\deniz\source\repos\Neural Network\PerceptronProje\bin\Debug\PerceptronProje.exe
+C:\Users\deniz\source\repos\Neural Network\PerceptronProje\bin\Debug\PerceptronProje.pdb

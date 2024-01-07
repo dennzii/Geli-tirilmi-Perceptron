@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33328.57
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PerceptronProje", "PerceptronProje\PerceptronProje.csproj", "{78EED1D2-2DE0-4E58-83C0-849AF85389D5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EFEA0068-A0BA-4FA4-BB01-A55EE922E210}"
+	ProjectSection(SolutionItems) = preProject
+		Neuron.cs = Neuron.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78EED1D2-2DE0-4E58-83C0-849AF85389D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78EED1D2-2DE0-4E58-83C0-849AF85389D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78EED1D2-2DE0-4E58-83C0-849AF85389D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78EED1D2-2DE0-4E58-83C0-849AF85389D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC6A5674-13D9-4665-AC40-CDC52FF4C8A9}
+	EndGlobalSection
+EndGlobal
